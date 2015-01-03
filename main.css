@@ -23,12 +23,12 @@ hr {
 	margin-top:3%;
 	margin-left:auto;
 	margin-right:auto;
-	background-color:FFE722;
+	background-color:FFE300;
 	padding:10px;
 }
 
 #main_body {
-	width:650px;
+	width:680px;
 	border: 2px solid #FFF38F;
 	padding: 0px;
 }
@@ -56,8 +56,9 @@ hr {
 }
 
 #expand {
-	font-size:12px;
+	font-size:14px;
 	font-style: italic;
+	font-weight: normal;
 }
 
 #price_table {
@@ -100,28 +101,24 @@ th {
 	text-align:center;
 	font-weight:bold;
 	font-size:18px;
-	padding:5px 5px 10px 5px;
+	padding:5px 5px 20px 5px;
 }
 
 .images {
-	padding: 7px 0px 7px 7px;
+	padding: 10px 0px 10px 10px;
 	float: none;
 	clear: both;
-	background-color: FFF38F;
-	border-top: 2px solid FFF8BB;
-	border-bottom: 2px solid FFF8BB;
 }
 
 .thumbnail {
 	width:150px;
-	margin-right: 2px;
+	margin-right: 10px;
 	border:2px solid;
 }
 
 #footer {
 	text-align:center;
-	font-weight:bold;
-	font-size:10px;
+	font-size:12px;
 	margin:10px;
 	font-style: italic;
 }
